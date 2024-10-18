@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810629662746",
+    "project_id": "makeitboom-9f80f",
+    "storage_bucket": "makeitboom-9f80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810629662746:android:2fd03da7bc9208d02e29a3",
+        "android_client_info": {
+          "package_name": "com.makeItboom.puzzlegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGkSwgDTze5wTkRofWQ4xSgJqIYneVSe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
